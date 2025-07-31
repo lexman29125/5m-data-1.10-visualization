@@ -31,23 +31,23 @@
 ### Q5: How do you set the x-axis tick labels in matplotlib?
 
 - A. Use `ax.set_xticks()`
-- B. Use `ax.set_xticklabels()`
+- B. Use `ax.set_xticklabels()` (ANS)
 - C. Use `ax.set_xlabel()`
-- D. Both A and B (ANS)
+- D. Both A and B 
 
 ### Q6: How do you add text annotations to a matplotlib plot?
 
-- A. Use `ax.text()`
-- B. Use `ax.annotate()` (ANS)
+- A. Use `ax.text()` (ANS)
+- B. Use `ax.annotate()`
 - C. Use `ax.label()`
 - D. Use `ax.title()`
 
 ### Q7: How do you create a bar plot in seaborn?
 
-- A. Use `sns.barplot()` (ANS)
+- A. Use `sns.barplot()`
 - B. Use `sns.catplot(kind='bar')`
 - C. Use `sns.histplot()`
-- D. Both A and B
+- D. Both A and B (ANS)
 
 ### Q8: What is the purpose of the `hue` parameter in seaborn's plotting functions?
 
@@ -58,10 +58,10 @@
 
 ### Q9: How do you create a histogram in seaborn?
 
-- A. Use `sns.histplot()` (ANS)
+- A. Use `sns.histplot()`
 - B. Use `sns.distplot()`
 - C. Use `sns.kdeplot()`
-- D. Both A and B
+- D. Both A and B (ANS)
 
 ### Q10: How do you create a pairwise scatter plot matrix in seaborn?
 
